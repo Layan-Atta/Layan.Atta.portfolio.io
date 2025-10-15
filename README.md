@@ -26,6 +26,4 @@
 [Layan.Atta.portfolio.io](https://layan-atta.github.io/Layan.Atta.portfolio.io/)
 
 ---
-
-نتمنى أن ينال إعجابك!
-# Layan.Atta.portfolio.io
+أتمنى أن ينال إعجابكم!
